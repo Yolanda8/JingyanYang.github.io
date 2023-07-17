@@ -12,7 +12,6 @@ Jingyan Yang is working toward the M.Sc. degree in the School of Cyber Science a
 
 Position held
 ======
-担任过的职务
 团支部书记
 
 
