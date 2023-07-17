@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-ZiHao Zhang  is a Research 0 students and working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of Dr. Guyue Li. 
-个人信息
+Jingyan Yang is working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of Dr. Guyue Li.
 
 Position held
 ======
 担任过的职务
+团支部书记
 
 
 published papers
 ======
-论文
+J. Yang, S. Gao, G. Li*, R. Sui and Bin. X, “Reducing gas consumption of Tornado Cash and other smart contracts in Ethereum, in Proc. IEEE 21th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Wuhan, China, 28-30 Oct. 2022, pp. 1-6.
 
 
 
